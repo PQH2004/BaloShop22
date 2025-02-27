@@ -27,3 +27,9 @@
 - **Quản Lý Admin:** Dashboard quản trị để quản lý sản phẩm, danh mục và đơn hàng.
 
 ---
+
+### 3.1. Sơ Đồ Cấu Trúc/Chức Năng
+
+*Hình ảnh minh họa sơ đồ cấu trúc và chức năng của ứng dụng:*
+
+![Cấu trúc chức năng](218ccdda-77c4-4c2b-8079-2a358ea477db.png)
