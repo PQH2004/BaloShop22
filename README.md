@@ -32,4 +32,10 @@
 
 *Hình ảnh minh họa sơ đồ cấu trúc và chức năng của ứng dụng:*
 
-![Cấu trúc chức năng](218ccdda-77c4-4c2b-8079-2a358ea477db.png)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/PQH2004/BaloShop22/main/218ccdda-77c4-4c2b-8079-2a358ea477db.jpg)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/PQH2004/BaloShop22/main/4eb8dcb0-cf94-4b72-936b-b1e2cd00ebd5.jpg)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/PQH2004/BaloShop22/main/6dfd8c57-4077-4f83-bf85-6eb5408caf05.jpg)
+
+---
+
+## 4. Sơ Đồ Thuật Toán/Sơ Đồ Tuần Tự
