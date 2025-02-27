@@ -39,3 +39,6 @@
 ---
 
 ## 4. Sơ Đồ Thuật Toán/Sơ Đồ Tuần Tự
+### 4.1. Sơ Đồ Tuần Tự Xác Thực Người Dùng
+![Cấu trúc chức năng](https://raw.githubusercontent.com/PQH2004/BaloShop22/main/18cb309a-be6a-4198-bf5b-8e37b0620ac9.jpg)
+
