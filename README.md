@@ -42,3 +42,14 @@
 ### 4.1. Sơ Đồ Tuần Tự Xác Thực Người Dùng
 ![Cấu trúc chức năng](https://raw.githubusercontent.com/PQH2004/BaloShop22/main/18cb309a-be6a-4198-bf5b-8e37b0620ac9.jpg)
 
+### 4.2. Sơ Đồ Tuần Tự Quản Lý Sản Phẩm (Admin)
+![Cấu trúc chức năng](https://raw.githubusercontent.com/PQH2004/BaloShop22/main/474000aa-1204-4959-bf8b-ef897b338767.jpg)
+
+### 4.3. Sơ Đồ Tuần Tự Tìm Kiếm Sản Phẩm 
+![Cấu trúc chức năng](https://raw.githubusercontent.com/PQH2004/BaloShop22/main/3523a6ad-b7e0-4608-a52a-fc5f1056cfee.jpg)
+
+### 4.4. Sơ Đồ Tuần Tự Xem Chi Tiết Sản Phẩm 
+![Cấu trúc chức năng](https://raw.githubusercontent.com/PQH2004/BaloShop22/main/6642af5a-6ccf-4c81-9bd9-4d6604d3a0d8.jpg)
+
+### 4.5. Sơ Đồ Tuần Tự Thêm Vào Giỏ Hàng 
+![Cấu trúc chức năng](https://raw.githubusercontent.com/PQH2004/BaloShop22/main/389f0713-412e-45b4-8b70-43c96b0f2ecc.jpg)
