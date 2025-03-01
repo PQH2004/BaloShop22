@@ -53,3 +53,17 @@
 
 ### 4.5. Sơ Đồ Tuần Tự Thêm Vào Giỏ Hàng 
 ![Cấu trúc chức năng](https://raw.githubusercontent.com/PQH2004/BaloShop22/main/389f0713-412e-45b4-8b70-43c96b0f2ecc.jpg)
+
+---
+
+## 5. Công Nghệ Sử Dụng
+
+- **Laravel 11:** Framework PHP mạnh mẽ cho phát triển ứng dụng web.
+- **Livewire 3:** Framework giúp xây dựng giao diện động mà không cần viết nhiều JavaScript.
+- **Tailwind CSS:** Framework CSS tiện ích, giúp xây dựng giao diện responsive và hiện đại.
+- **DevDojo Auth Package:** Gói xác thực hỗ trợ đăng nhập, đăng ký và quản lý người dùng.
+
+   [Link repo](https://github.com/jimm9Tran/TrangThuongMaiDienTu_Laravel):https://github.com/jimm9Tran/TrangThuongMaiDienTu_Laravel
+
+*Tài khoản mật khẩu cho admin: pqhuy2508@gmail.com / Huy@13245 khi truy cập 
+
