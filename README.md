@@ -63,7 +63,7 @@
 - **Tailwind CSS:** Framework CSS tiện ích, giúp xây dựng giao diện responsive và hiện đại.
 - **DevDojo Auth Package:** Gói xác thực hỗ trợ đăng nhập, đăng ký và quản lý người dùng.
 
-   [Link repo](https://github.com/jimm9Tran/TrangThuongMaiDienTu_Laravel):https://github.com/jimm9Tran/TrangThuongMaiDienTu_Laravel
-
+   [Link repo](https://github.com/PQH2004/BaloShop22):https://github.com/github.com/PQH2004/BaloShop22
+  
 *Tài khoản mật khẩu cho admin: pqhuy2508@gmail.com / Huy@13245 khi truy cập 
 
