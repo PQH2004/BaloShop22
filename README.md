@@ -59,9 +59,7 @@
 ## 5. Công Nghệ Sử Dụng
 
 - **Laravel 11:** Framework PHP mạnh mẽ cho phát triển ứng dụng web.
-- **Livewire 3:** Framework giúp xây dựng giao diện động mà không cần viết nhiều JavaScript.
-- **Tailwind CSS:** Framework CSS tiện ích, giúp xây dựng giao diện responsive và hiện đại.
-- **DevDojo Auth Package:** Gói xác thực hỗ trợ đăng nhập, đăng ký và quản lý người dùng.
+
 
    [Link repo](https://github.com/PQH2004/BaloShop22):https://github.com/github.com/PQH2004/BaloShop22
   
