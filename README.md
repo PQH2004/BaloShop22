@@ -58,8 +58,11 @@
 
 ## 5. Công Nghệ Sử Dụng
 
+- **Ngôn ngữ lập trình PHP**
 - **Laravel 11:** Framework PHP mạnh mẽ cho phát triển ứng dụng web.
-
+- **Ngôn ngữ lập trình JavaScript-Thư viện jQuery**
+- **Ngôn ngữ dịnh dạng CSS**
+- **Phần mềm XAMPP**
 
    [Link repo](https://github.com/PQH2004/BaloShop22):https://github.com/github.com/PQH2004/BaloShop22
   
