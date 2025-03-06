@@ -64,7 +64,7 @@
 - **Ngôn ngữ dịnh dạng CSS**
 - **Phần mềm XAMPP**
 
-   [Link repo](https://github.com/PQH2004/BaloShop22):https://github.com/github.com/PQH2004/BaloShop22
+   [Link repo](https://github.com/PQH2004/BaloShop22):https://github.com/PQH2004/BaloShop22
   
 *Tài khoản mật khẩu cho admin: pqhuy2508@gmail.com / Huy@13245 khi truy cập 
 
